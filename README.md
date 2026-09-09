@@ -167,4 +167,5 @@ Particularly where the work involves translating real business processes into re
 **Available for 100% remote opportunities — EU / Worldwide**
 
 📍 Gdańsk, Poland  
+💼 [LinkedIn](https://www.linkedin.com/in/tetiana-shtemberh)  
 ✉️ [tetianashtemberh1@gmail.com](mailto:tetianashtemberh1@gmail.com)
