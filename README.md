@@ -12,80 +12,80 @@ I design and build reliable business automation systems using **n8n, Make, APIs 
 
 ### 01 · AI Revenue Operations System
 
-**Lead intake → Validation → Qualification → CRM → Follow-up → Human escalation**
+**Lead intake → Validation → Qualification → CRM-ready record → Routing**
 
-End-to-end revenue operations workflow designed to process incoming leads, validate and normalize data, prevent duplicates, qualify opportunities, prepare CRM-ready records and route the next sales action.
+Production-minded revenue operations workflow for processing incoming leads, validating and normalizing data, generating deterministic fingerprints, qualifying opportunities and preparing CRM-ready records for the next sales action.
 
-`n8n` `REST API` `Webhooks` `JavaScript` `JSON` `CRM` `AI/LLM`
+`n8n` `REST API` `Webhooks` `JavaScript` `JSON` `CRM` `AI/LLM-ready`
 
-**Status:** Working reference implementation · Synthetic data
+**Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-> Repository coming next.
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-revenue-operations-system)
 
 ---
 
 ### 02 · AI Business Inbox & Support Operations
 
-**Email → Extraction → AI Classification → Priority → Routing → Draft → Human approval**
+**Message intake → Validation → Classification → Priority → Routing → Draft → Human review**
 
-Intelligent communication workflow for processing incoming business messages, extracting structured information, classifying intent and urgency, routing requests and preparing responses with human review where required.
+Business inbox automation for processing incoming messages, classifying intent and urgency, preparing response drafts and routing sensitive requests to human review.
 
-`n8n` `AI/LLM` `Email` `REST API` `JSON` `Human-in-the-loop`
+`n8n` `JavaScript` `Message Classification` `JSON` `Human-in-the-loop` `AI/LLM-ready`
 
-**Status:** Reference implementation in progress
+**Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-> Repository coming next.
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-business-inbox-support-operations)
 
 ---
 
 ### 03 · Intelligent Document Operations
 
-**Document → OCR → Extraction → Validation → Deduplication → Database → Approval**
+**Extracted document data → Validation → Business rules → Fingerprint → Exception routing → Human review**
 
-Document-processing system designed for invoices and operational documents. Converts unstructured files into validated structured data and routes exceptions for human review.
+Document operations workflow for structured invoice and business-document data. Validates required fields, checks financial and date consistency, generates deterministic fingerprints and routes exceptions for human review.
 
-`n8n` `OCR` `AI/LLM` `REST API` `JSON` `Google Sheets` `Database`
+`n8n` `JavaScript` `JSON` `Document Processing` `Human-in-the-loop` `AI/LLM-ready`
 
-**Status:** Reference implementation in progress
+**Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-> Repository coming next.
+➡️ [View repository](https://github.com/tetianashtemberh1-png/intelligent-document-operations)
 
 ---
 
-### 04 · AI Customer Service & Receptionist Orchestration
+### 04 · AI Customer Service / Receptionist Orchestration
 
-**Customer request → Intent → Qualification → CRM → Calendar → Response → Human handoff**
+**Customer message → Validation → Intent → Service routing → Draft response → Human escalation**
 
-Multi-step customer-service orchestration for handling incoming requests, identifying intent, collecting required information, preparing downstream actions and escalating cases when automation should not make the final decision.
+Customer-service orchestration for booking requests, pricing questions, complaints and general enquiries. Separates safe auto-ready actions from cases requiring human review.
 
-`n8n` `Webhooks` `AI/LLM` `CRM` `Calendar` `REST API` `Human-in-the-loop`
+`n8n` `JavaScript` `Intent Routing` `REST API-ready` `Human-in-the-loop` `AI/LLM-ready`
 
-**Status:** Reference implementation in progress
+**Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-> Repository coming next.
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-customer-service-receptionist-orchestration)
 
 ---
 
 ### 05 · n8n Production Patterns
 
-**Reliability patterns for business-critical automation workflows**
+**Validation → Idempotency context → Retry decisions → Failure handling → Observability**
 
-A focused engineering repository covering patterns that make automation systems safer and more maintainable:
+Reliability-focused engineering reference demonstrating reusable production-minded patterns for n8n workflows:
 
-- Retry with backoff
-- Webhook deduplication
-- Idempotency
-- API rate-limit handling
-- JSON validation
-- Error routing
-- Execution logging
-- Human approval
+- deterministic validation
+- idempotency-key generation
+- correlation IDs
+- retry classification
+- bounded retry context
+- exponential-backoff metadata
+- structured success and failure envelopes
+- observability-friendly outputs
 
-`n8n` `JavaScript` `REST API` `Webhooks` `Error Handling` `Reliability`
+`n8n` `JavaScript` `Idempotency` `Retries` `Error Handling` `Observability` `Reliability`
 
-**Status:** Engineering reference library in progress
+**Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-> Repository coming next.
+➡️ [View repository](https://github.com/tetianashtemberh1-png/n8n-production-patterns)
 
 ---
 
@@ -144,11 +144,11 @@ Public implementations use synthetic data, mock credentials and `.env.example` f
 
 The systems published here are **portfolio reference implementations built and tested with synthetic data**.
 
-They demonstrate workflow architecture, automation logic, integrations, failure handling and documentation without exposing client data, production credentials or private infrastructure.
+They demonstrate workflow architecture, automation logic, validation, routing, failure handling and documentation without exposing client data, production credentials or private infrastructure.
 
-Each flagship repository includes:
+The flagship repositories include workflow exports, sample data, testing documentation and execution evidence.
 
-**Architecture · Workflow · Sample Data · Testing · Failure Handling · Setup Documentation**
+Production integrations that are not connected are explicitly documented as extensions rather than presented as implemented functionality.
 
 ---
 
@@ -167,4 +167,4 @@ Particularly where the work involves translating real business processes into re
 **Available for 100% remote opportunities — EU / Worldwide**
 
 📍 Gdańsk, Poland  
-✉️ tetianashtemberh1@gmail.com
+✉️ [tetianashtemberh1@gmail.com](mailto:tetianashtemberh1@gmail.com)
