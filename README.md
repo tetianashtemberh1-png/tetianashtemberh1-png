@@ -20,7 +20,7 @@ Production-minded revenue operations workflow for processing incoming leads, val
 
 **Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-revenue-operations-system)
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-revenue-operations-system) · ▶️ [Watch demo](https://youtu.be/2hv_yIUt32o)
 
 ---
 
@@ -34,7 +34,7 @@ Business inbox automation for processing incoming messages, classifying intent a
 
 **Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-business-inbox-support-operations)
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-business-inbox-support-operations) · ▶️ [Watch demo](https://youtu.be/09UhLQAfsMI)
 
 ---
 
@@ -48,7 +48,7 @@ Document operations workflow for structured invoice and business-document data. 
 
 **Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-➡️ [View repository](https://github.com/tetianashtemberh1-png/intelligent-document-operations)
+➡️ [View repository](https://github.com/tetianashtemberh1-png/intelligent-document-operations) · ▶️ [Watch demo](https://youtu.be/gwizWcoLHdc)
 
 ---
 
@@ -62,7 +62,7 @@ Customer-service orchestration for booking requests, pricing questions, complain
 
 **Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-customer-service-receptionist-orchestration)
+➡️ [View repository](https://github.com/tetianashtemberh1-png/ai-customer-service-receptionist-orchestration) · ▶️ [Watch demo](https://youtu.be/iHPcw5zlkew)
 
 ---
 
@@ -85,7 +85,7 @@ Reliability-focused engineering reference demonstrating reusable production-mind
 
 **Status:** Working reference implementation · Tested in n8n · Synthetic data
 
-➡️ [View repository](https://github.com/tetianashtemberh1-png/n8n-production-patterns)
+➡️ [View repository](https://github.com/tetianashtemberh1-png/n8n-production-patterns) · ▶️ [Watch demo](https://youtu.be/4oswH8vYxsk)
 
 ---
 
